@@ -17,7 +17,7 @@ This tutorial requires that you execute some programs, and ideally, you edit and
 3. You ideally will have an editor that lets you see and edit the python code. On windows, the easiest tool is Notepad (though Notepad++ is a free tool that makes editing much easier and clearer). For Mac, you can use TextEdit. For Linux, you can use vi, vim, or any other tool you might choose (if you are using Linux, you probably already know this and have a favorite).
   Alternatively, you can use the ipython notebook. This allows you to edit and run code from within a browser. We refer you to the many excellent tutorials on how to install and use ipython notebooks on the web.
 
-Once you have done the above, you should be ready to begin. The contents of this repository are organized into /code and /data. You may 'cd' into the code directory and list the directory to see the examples. These are all set up to expect to have the data arranged the way the repository had it arranged, so do not change this unless you know what you are donig.
+Once you have done the above, you should be ready to begin. The contents of this repository are organized into /code and /data. You may 'cd' into the code directory and list the directory to see the examples. These are all set up to expect to have the data arranged the way the repository had it arranged, so do not change this unless you know what you are doing.
 
 If you know how to run and use IPython/Jupyter, the notebooks are in the /notebooks directory.
 
